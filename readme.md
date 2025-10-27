@@ -6,3 +6,6 @@
 
 # DELETE
 ![DELETE](screenshots/delete.png)
+
+# DB
+![DB](screenshots/db.png)
